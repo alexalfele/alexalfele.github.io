@@ -135,7 +135,7 @@
 
     <div class="container">
 
-        <img src="https://i.imgur.com/YsUaZ2N.jpg" alt="Plate of BBQ Ribs and Macaroni and Cheese" class="food-image">
+        <img src="https://static.vecteezy.com/system/resources/previews/059/577/488/non_2x/delicious-barbecue-ribs-served-with-cornbread-baked-beans-and-coleslaw-create-mouthwatering-free-photo.jpeg" alt="Plate of BBQ Ribs and Macaroni and Cheese" class="food-image">
 
         <p class="body-text-small">
             Welcome to Khaana's kitchen! Our BBQ offerings are prepared daily using the finest ingredients and <span class="italics">traditional smoking techniques</span>. We guarantee a meal you won't forget.
