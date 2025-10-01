@@ -177,7 +177,7 @@
         <h3>More Information and Downloads</h3>
 
         <p class="body-text-small">
-            Learn more about the art of slow-smoking meat from the experts: <a href="https://amazingribs.com/more-barbecue-and-grilling-science/" target="_blank" rel="noopener noreferrer" style="color: var(--color-highlight-green); text-decoration: underline;">The Science of BBQ</a>.
+            Learn more about the art of slow-smoking meat from the experts: <a href="https://amazingribs.com/bbq-technique-and-science/"_blank" rel="noopener noreferrer" style="color: var(--color-highlight-green); text-decoration: underline;">The Science of BBQ</a>.
         </p>
 
         <p class="bold">
