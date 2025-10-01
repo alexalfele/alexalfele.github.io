@@ -1,4 +1,4 @@
-<html lang="en">
+ <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -181,7 +181,7 @@
         </p>
 
         <p class="bold">
-            Download our full catering menu PDF: 
+            Download our full Information Guide PDF: 
             <a href="Khaana Nutritional Information Guide.pdf" download="Khaana Nutritional Information Guide.pdf" class="download-btn">
     Download Nutritional Guide (PDF)
             </a>
