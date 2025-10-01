@@ -78,7 +78,7 @@
     <div class="container">
 
         <p>
-            Welcome to the heart of Khaana's kitchen, where slow-smoked perfection meets creamy, comforting tradition. Our BBQ offerings are prepared daily using the finest ingredients and time-honored smoking techniques.
+            Welcome to Khaana's kitchen! Our BBQ offerings are prepared daily using the finest ingredients and tradtional smoking techniques.
         </p>
 
         <div class="menu-item">
