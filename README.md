@@ -1,1 +1,2 @@
-# alexalfele.github.io
+theme: jekyll-theme-minimal
+title: alexalfele's homepage
