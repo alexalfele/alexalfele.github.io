@@ -135,7 +135,7 @@
 
     <div class="container">
 
-        <img src="https://via.placeholder.com/200x150?text=Ribs+and+Mac" alt="Plate of BBQ Ribs and Macaroni and Cheese" class="food-image">
+        <img src="https://i5.walmartimages.com/dfw/7e496735-cfc2/k2-_e849afd9-8e3b-4a0f-8760-c383a87e69c7.v1.jpg" alt="Plate of BBQ Ribs and Macaroni and Cheese" class="food-image">
 
         <p class="body-text-small">
             Welcome to Khaana's kitchen! Our BBQ offerings are prepared daily using the finest ingredients and <span class="italics">traditional smoking techniques</span>. We guarantee a meal you won't forget.
