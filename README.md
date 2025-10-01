@@ -103,7 +103,7 @@
             <ol>
                 <li>Freshly cooked elbow macaroni</li>
                 <li>House-made roux and five-cheese blend</li>
-                <li>Topped with panko breadcrumbs</li>
+                <li>Topped with breadcrumbs</li>
                 <li>Baked to perfection</li>
             </ol>
         </div>
