@@ -182,8 +182,8 @@
 
         <p class="bold">
             Download our full catering menu PDF: 
-            <a href="Khaana_Catering_Menu.pdf" download="Khaana_Catering_Menu.pdf" class="download-btn">
-                Download Menu
+            <a href="Khaana Nutritional Information Guide.pdf" download="Khaana Nutritional Information Guide.pdf" class="download-btn">
+    Download Nutritional Guide (PDF)
             </a>
         </p>
 
