@@ -85,7 +85,7 @@
             <span class="price">$24.99</span>
             <h2>Slow-Smoked BBQ Pork Ribs</h2>
             <p>
-                Our signature ribs are dry-rubbed with a secret blend of spices, then smoked low and slow over hickory wood for up to 8 hours. They're fall-off-the-bone tender and coated with your choice of our tangy Carolina-style or sweet, smoky Kansas City sauce.
+                Our signature ribs are dry-rubbed with a secret blend of spices, then smoked low and slow over hickory for over 8 hours. They're fall-off-the-bone tender and coated with your choice of our tangy Carolina-style or sweet, smoky Kansas City sauce.
             </p>
             <ul>
                 <li>Full Rack (feeds 3-4)</li>
@@ -98,7 +98,7 @@
             <span class="price">$8.99</span>
             <h2>Khaana's Signature Mac and Cheese</h2>
             <p>
-                More than just a side, this is a creamy, cheesy masterpiece. Made with five different kinds of cheese, butter, and a hint of smoked paprika, it's baked until the top is golden-brown and bubbling. This dish is the ultimate comfort food complement to our rich ribs.
+                This is a creamy, cheesy, delicious work of art. Made with five different kinds of cheese, butter, and a hint of smoked paprika, it's baked until the top is golden-brown and bubbling. This dish is the ultimate complement to our rich ribs.
             </p>
             <ol>
                 <li>Freshly cooked elbow macaroni</li>
