@@ -146,7 +146,7 @@
         </p>
 
         <div class="menu-item">
-            <span class="price">$24.99</span>
+            <span class="price">$27.99</span>
             <h2>Slow-Smoked BBQ Pork Ribs</h2>
             <p>
                 Our signature ribs are dry-rubbed with a secret blend of spices, then smoked low and slow over hickory for over 8 hours. They're fall-off-the-bone tender and coated with your choice of our tangy Carolina-style or sweet, smoky Kansas City sauce.
@@ -154,7 +154,7 @@
             <ul>
                 <li>Full Rack (feeds 3-4)</li>
                 <li>Half Rack (feeds 1-2)</li>
-                <li>Served with cornbread and coleslaw.</li>
+                <li>Served with beans, cornbread, and coleslaw.</li>
             </ul>
         </div>
 
