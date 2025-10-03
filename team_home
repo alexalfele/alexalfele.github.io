@@ -1,0 +1,40 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Team Home - Khaana</title>
+    <style>
+        body { font-family: Calibri, sans-serif; background-color: #f4f4f4; color: #333; margin: 20px; }
+        h1 { color: #654321; } /* Primary Brown */
+        footer { margin-top: 50px; padding-top: 10px; border-top: 1px solid #ccc; font-size: 0.8em; }
+    </style>
+</head>
+<body>
+
+    <h1>Khaana: Foodservice Solutions</h1>
+    
+    <h2>Team Number: 30</h2>
+
+    <p>Welcome to the official team homepage. Please use the navigation links on the left to view specific team member pages.</p>
+
+    <h3>Our Core Team Members</h3>
+    <ul>
+        <li> Alexander Alfele </li>
+        <li> Trevor Harris </li>
+        <li> Jaime Lee </li>
+        <li> Daniel Sandino </li>
+        <li> Eddy Zhang </li>
+    </ul>
+    
+    <p>Each team member page will load here in this right frame, while the navigation menu remains visible on the left.</p>
+
+    <footer>
+        <p>Date Last Modified: <span id="lastModifiedDate"></span></p>
+    </footer>
+
+    <script>
+        // JavaScript to get the last modified date of the document
+        document.getElementById("lastModifiedDate").textContent = document.lastModified;
+    </script>
+
+</body>
+</html>
