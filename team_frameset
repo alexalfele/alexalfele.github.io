@@ -1,0 +1,12 @@
+<html>
+<head>
+    <title>Khaana Team Page</title>
+</head>
+
+<frameset cols="250, *" border="1" frameborder="yes">
+    <frame name="left_nav" src="team_navigation" scrolling="no" noresize>
+
+    <frame name="right_content" src="team_home">
+</frameset>
+
+</html>
