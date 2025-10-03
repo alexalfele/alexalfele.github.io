@@ -149,7 +149,7 @@
             <span class="price">$27.99</span>
             <h2>Slow-Smoked BBQ Pork Ribs</h2>
             <p>
-                Our signature ribs are dry-rubbed with a secret blend of spices, then smoked low and slow over hickory for over 8 hours. They're fall-off-the-bone tender and coated with your choice of our tangy Carolina-style or sweet, smoky Kansas City sauce.
+                Our signature ribs are dry-rubbed with a secret blend of spices, then smoked low and slow over hickory for over 8 hours. These fall-off-the-bone tender pieces are coated with your choice of our signature Khanna BBQ sauce, tangy Carolina-style, or sweet and smoky Kansas City sauce.
             </p>
             <ul>
                 <li>Full Rack (feeds 3-4)</li>
