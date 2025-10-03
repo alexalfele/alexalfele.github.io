@@ -1,0 +1,62 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Navigation</title>
+    <style>
+        :root {
+            --color-primary-brown: #654321;
+            --color-secondary-orange: #FF8C00;
+        }
+        body { 
+            font-family: 'Times New Roman', serif; 
+            background-color: #fffaf0; /* Light cream background */
+            color: var(--color-primary-brown); 
+            padding: 15px; 
+        }
+        h3 {
+            font-family: Calibri, sans-serif;
+            color: var(--color-secondary-orange);
+            border-bottom: 2px solid var(--color-secondary-orange);
+            padding-bottom: 5px;
+        }
+        nav a {
+            display: block;
+            padding: 8px;
+            margin: 5px 0;
+            text-decoration: none;
+            color: var(--color-primary-brown);
+            background-color: #F8F8FF; /* Off-white for links */
+            border: 1px solid #D2B48C; /* Light brown border */
+        }
+        nav a:hover {
+            background-color: var(--color-secondary-orange);
+            color: white;
+        }
+        footer { margin-top: 50px; padding-top: 10px; border-top: 1px solid #D2B48C; font-size: 0.8em; }
+    </style>
+</head>
+<body>
+
+    <h3>Team Navigation</h3>
+    
+    <nav>
+        <a href="team_home.html" target="right_content">Team Home</a>
+        
+        <a href="alexalfele.github.io" target="right_content">Alexander Alfele</a>
+        <a href="member_bela.html" target="right_content"> Trevor Harris </a>
+        <a href="member_chirag.html" target="right_content"> Jaime Lee </a>
+        <a href="member_deepa.html" target="right_content"> Daniel Sandino </a>
+        <a href="member_deepa.html" target="right_content"> Eddy Zhang </a>
+    </nav>
+    
+    <footer>
+        <p>Navigation Last Modified: <span id="lastModifiedDate"></span></p>
+    </footer>
+
+    <script>
+        // JavaScript to get the last modified date of the document
+        document.getElementById("lastModifiedDate").textContent = document.lastModified;
+    </script>
+
+</body>
+</html>
