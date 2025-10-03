@@ -142,7 +142,7 @@
         </p>
         
         <p class="body-text-large">
-            <span class="underline">This week's special:</span> <span class="bold">Get a Full Rack and a Large Mac & Cheese for only $30.00!</span>
+            <span class="underline">This week's special:</span> <span class="bold">Get a Full Rack and a Large Mac & Cheese for only $35.00!</span>
         </p>
 
         <div class="menu-item">
